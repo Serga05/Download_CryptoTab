@@ -1,0 +1,38 @@
+.Button-Download--ADD_STYLE-red {
+	width: 500px;
+	background-color: red;
+	border-color: red;
+}
+.Button-Download--ADD_STYLE-yellow {
+	width: 500px;
+	background-color: yellow;
+	border-color: yellow;
+}
+.Button-Download--ADD_STYLE-aqua {
+	width: 500px;
+	background-color: aqua;
+	border-color: aqua;
+}
+.Button-Download--ADD_STYLE-lime {
+    Width: 500px;
+	background-color: Lime;
+	border-color: Lime;
+}
+.Button-Download--ADD_STYLE-purple {
+	Width: 500px;
+	background-color: purple;
+	border-color: purple
+}
+.Button-Download--ADD_STYLE-green {
+	Width: 500px;
+	background-color: Green;
+	border-color: Green
+}
+.Button-Download--ADD_STYLE-Gold {
+	Width: 250;
+	background-color: Gold;
+    border-color: Gold
+}
+Body {
+	background-color: black;
+}
